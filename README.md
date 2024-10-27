@@ -1,6 +1,6 @@
 <div id="badges" align ="center">
   <a href= "https://t.me/Vladislav20006">
-    <img src + "https://detskiy-doctor.ru/wp-content/uploads/2023/05/52f64b4f80b236249b40048a9b63d27d.png">
+    <img src + "https://detskiy-doctor.ru/wp-content/uploads/2023/05/52f64b4f80b236249b40048a9b63d27d.png" width="20" height="20">
   </a>
   
 <a href= "https://mail.google.com/mail/u/1/#inbox/FMfcgzQXJkdVVmPkJMNZgXdnSlHjRTMM">
