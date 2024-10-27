@@ -31,4 +31,9 @@
   <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65932159bffa447dc94de736_659333ac438ebb0987140b07/scale_1200" width="30" height="30">
   <img src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png" width="30" height="30">
 </div>
-  
+
+### :trophy: Достижения :
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vladislav166" alt=""/>
+</div>
