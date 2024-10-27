@@ -25,3 +25,10 @@
 - 🚴‍♀️: факт обо мне
 
 ### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://avatars.mds.yandex.net/i?id=76f28736e27e47fb267124ecba089052db0f203d-12521952-images-thumbs&n=13" width="30" height="30">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65932159bffa447dc94de736_659333ac438ebb0987140b07/scale_1200" width="30" height="30">
+  <img src="https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png" width="30" height="30">
+</div>
+  
