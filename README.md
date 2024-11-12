@@ -9,7 +9,7 @@
 </div>
 
 <div id="vievprof" align="center>
-  <img src="https://komarev.com/ghpvc/?username=Vladislav166&style=flat-square&color=blue" alt=""/>
+  <img src = ![](https://komarev.com/ghpvc/?username=Vladislav166&style=flat-square)
 </div>
 
 <div id="heythere" align="center"
